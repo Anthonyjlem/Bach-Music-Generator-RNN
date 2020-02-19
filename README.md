@@ -1,4 +1,4 @@
-# Bach-Music-Generator-RNN
+# Bach Music Generator RNN
 This RNN was trained on "Sheep May Safely Graze," by J.S. Bach, and produces new 30 second long midi files.
 
 The code in the module "pretty_midi_extra.py" is copied from https://github.com/craffel/pretty-midi/blob/master/examples/reverse_pianoroll.py. In accordance with their citation policy, it is cited as follows: Colin Raffel and Daniel P. W. Ellis. Intuitive Analysis, Creation and Manipulation of MIDI Data with pretty_midi. In Proceedings of the 15th International Conference on Music Information Retrieval Late Breaking and Demo Papers, 2014.
